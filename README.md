@@ -2,7 +2,7 @@
 Voice to Text with Google Chrome Web Speech API
 
 # Live Demo
-https://ttspeech.herokuapp.com/index.html
+ https://prashantp91.github.io/voicetotext/
 
 # Installing
 Clone this repository to your local computer
